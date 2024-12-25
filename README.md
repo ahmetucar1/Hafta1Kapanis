@@ -1,3 +1,5 @@
+HAFTA-1 KAPANIŞ PRATİKLERİ
+
 Bu projede aşağıda sırasıyla verilen şu programlar bulunmaktadır.
 
 1. Konsola "Merhaba Dünya" yazdıran bir program yazın.
